@@ -43,3 +43,6 @@ I have also written a detailed report based on these Project. The report provide
 
 ## Video Demonstration
 A video link is provided to showcase the implementation process.
+
+## Contact
+If you have any questions or would like to discuss the project further, feel free to reach out to me.
